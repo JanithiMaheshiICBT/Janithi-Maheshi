@@ -1,6 +1,10 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=janithagamage&color=blue" alt="profile views" />
-</p>
+
+<a align="left" href="https://github.com/JanithiMaheshiICBT" target="_blank">
+  <img src="https://img.shields.io/badge/follow-@janithagamage-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=janithagamage&color=blue" alt="profile views" />
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dXk1c2RjYnBreTduamh5dHAzMHJrODdmNHp4YTFrODlhZHl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TD1hBarZhAwZhcGHEQ/giphy.gif" width="300" alt="girl GIF" />
