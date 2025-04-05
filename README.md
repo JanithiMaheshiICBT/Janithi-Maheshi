@@ -6,7 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dXk1c2RjYnBreTduamh5dHAzMHJrODdmNHp4YTFrODlhZHl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TD1hBarZhAwZhcGHEQ/giphy.gif" width="300" alt="girl GIF" />
 </p>
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhNmNsNTNqbTBrcnVsZzY2bWVjYWtkMTV4YmRnN21hMXRtZGV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="80" alt="Funny GIF" /> Hi there, I'm Janithi Maheshi </h1>
+<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhNmNsNTNqbTBrcnVsZzY2bWVjYWtkMTV4YmRnN21hMXRtZGV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="50" alt="Funny GIF" /> Hi there, I'm Janithi Maheshi </h1>
 
 
  - <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xajVzenUyOXV6eW83cXQ3dmw2eDU1N3F2dDJlbzAxY3d6bGQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" alt="Funny GIF" /> I'm a Software Engineering undergraduate at Cardiff Metropolitan University 
