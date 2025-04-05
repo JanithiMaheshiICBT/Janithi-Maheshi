@@ -1,6 +1,6 @@
 
 <a align="left" href="https://github.com/JanithiMaheshiICBT" target="_blank">
-  <img src="https://img.shields.io/badge/follow-@janithagamage-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  <img src="https://img.shields.io/badge/follow-Janithi Maheshi-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
 
