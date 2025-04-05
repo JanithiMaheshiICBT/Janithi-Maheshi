@@ -62,4 +62,5 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img style="margin:10px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
+<p align="center"> Thanks for visiting my profile, See you next time!
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /></p>
