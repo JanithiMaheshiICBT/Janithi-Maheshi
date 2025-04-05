@@ -4,7 +4,7 @@
 </a>
 
 
-  <img align="right" src="https://komarev.com/ghpvc/?username=janithagamage&color=blue" alt="profile views" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=JanithiMaheshiICBT&color=blue" alt="profile views" />
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp2dXk1c2RjYnBreTduamh5dHAzMHJrODdmNHp4YTFrODlhZHl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TD1hBarZhAwZhcGHEQ/giphy.gif" width="300" alt="girl GIF" />
