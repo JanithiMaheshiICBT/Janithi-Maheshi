@@ -19,7 +19,7 @@
 
 <h1><img src="https://loodibee.com/wp-content/uploads/Microsoft-Symbol-300x300.png" width="30" /> Certifications </h1>
 
-- ✅ [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MaheshiGamage-7043/96AC10DE58E09370?sharingId=241FDC44F0767BF1)
+- ✅ [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MaheshiGamage-7043/96AC10DE58E09370?sharingId=241FDC44F0767BF1) <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ4MzBteXNwdTlicGlna2w4eW8wNW01MzIxMnFreHM5cWNrd240aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HeeiQdBDVzyedLls1S/giphy.gif" width="120" alt="girl GIF" />
 - ✅ [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/MaheshiGamage-7043/37DF327DD873EB43?sharingId=241FDC44F0767BF1)
 - ✅ [Microsoft Certified: Power Platform Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/MaheshiGamage-7043/8F28CB82E9C6921F?sharingId=241FDC44F0767BF1)
 - ✅ [Microsoft Certified: Power Platform Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MaheshiGamage-7043/12D5DDB184ED4282?sharingId=241FDC44F0767BF1)
