@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN0Zmh1Znc0anpyZXlrejAxMGR3dmpnc2l3MjU5anJwcmV1YjNuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Funny GIF" />
 </p>
+
 <h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhNmNsNTNqbTBrcnVsZzY2bWVjYWtkMTV4YmRnN21hMXRtZGV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="80" alt="Funny GIF" />Hi there, I'm Janithi Maheshi </h1>
 
 
@@ -8,12 +9,18 @@
  - <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xajVzenUyOXV6eW83cXQ3dmw2eDU1N3F2dDJlbzAxY3d6bGQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="50" alt="Funny GIF" /> I'm a Software Engineering undergraduate at Cardiff Metropolitan University 
 - <img src="https://blackbirdcorporate.co.uk/wp-content/uploads/2021/11/Power-Apps-Power-Automate.gif" width="30" alt="Funny GIF" />  Passionate Power Apps Developer with over 3 years of experience crafting web and mobile low-code/no-code solutions.
 
-
-
 <p align="center">
-  <img src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966" width="400" alt="Coding Girl GIF"/>
+  <img src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966" width="300" alt="Coding Girl GIF"/>
 </p>
 
+
+## 
+<h1>🏅 Certifications </h1>
+
+- ✅ [Microsoft Certified: Power Platform Developer Associate](https://www.credly.com/badges/your-badge-id)  
+  *Issued by Microsoft | 2025*
+
+###
 
 - <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RnMjRtMG5nbWZqdGh4OGNmbWJwN2RjYWp1NGg1dHY5N2JobDlqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ENxx2erqOHckyqyDBK/giphy.gif" width="50" alt="Funny GIF" />      I’m currently learning **React JS, Node JS, Mongo DB, React Native**
 
