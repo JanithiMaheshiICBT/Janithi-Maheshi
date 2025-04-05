@@ -1,8 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Janithi Maheshi</h1>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN0Zmh1Znc0anpyZXlrejAxMGR3dmpnc2l3MjU5anJwcmV1YjNuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Funny GIF" />
+</p>
+<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhNmNsNTNqbTBrcnVsZzY2bWVjYWtkMTV4YmRnN21hMXRtZGV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlGeTBdTqMll15u/giphy.gif" width="80" alt="Funny GIF" />Hi there, I'm Janithi Maheshi </h1>
 
-<div style="border: 2px dashed #00bfff; padding: 15px; border-radius: 10px; text-align: center;">
-  🎓 I'm a Software Engineering undergraduate at Cardiff Metropolitan University and a passionate Power Apps Developer with over 3 years of experience crafting web and mobile low-code/no-code solutions.😉
-</div>
+
+
+ - <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xajVzenUyOXV6eW83cXQ3dmw2eDU1N3F2dDJlbzAxY3d6bGQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="50" alt="Funny GIF" /> I'm a Software Engineering undergraduate at Cardiff Metropolitan University 
+- <img src="https://blackbirdcorporate.co.uk/wp-content/uploads/2021/11/Power-Apps-Power-Automate.gif" width="30" alt="Funny GIF" />  Passionate Power Apps Developer with over 3 years of experience crafting web and mobile low-code/no-code solutions.
+
 
 
 <p align="center">
@@ -10,9 +15,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **React JS, Node JS, Mongo DB, React Native**
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RnMjRtMG5nbWZqdGh4OGNmbWJwN2RjYWp1NGg1dHY5N2JobDlqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ENxx2erqOHckyqyDBK/giphy.gif" width="50" alt="Funny GIF" />      I’m currently learning **React JS, Node JS, Mongo DB, React Native**
 
-- 📫 How to reach me **maheshijanithi@gmail.com**
+- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkZzRjOW5tMWN1NHR2enNodjJ2MmNnNmtwbnBuYWhlYzJvcXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iaoCkZx08BgRJv96Zn/giphy.gif" width="40" alt="Funny GIF" />       How to reach me **maheshijanithi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
