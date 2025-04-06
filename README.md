@@ -32,7 +32,7 @@
 
 - <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RnMjRtMG5nbWZqdGh4OGNmbWJwN2RjYWp1NGg1dHY5N2JobDlqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ENxx2erqOHckyqyDBK/giphy.gif" width="50" alt="Funny GIF" />      I’m currently learning **React JS, Node JS, Mongo DB, React Native**
 
-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkZzRjOW5tMWN1NHR2enNodjJ2MmNnNmtwbnBuYWhlYzJvcXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iaoCkZx08BgRJv96Zn/giphy.gif" width="40" alt="Funny GIF" />       How to reach me **maheshijanithi@gmail.com**
+- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVkZzRjOW5tMWN1NHR2enNodjJ2MmNnNmtwbnBuYWhlYzJvcXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iaoCkZx08BgRJv96Zn/giphy.gif" width="30" alt="Funny GIF" />       How to reach me **maheshijanithi@gmail.com**
 
 
 <h2 align="left">Connect with me</h2>
@@ -65,6 +65,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img style="margin:10px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
 </p>
+
+
 
 <p align="center"> Thanks for visiting my profile, See you next time!
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /></p>
